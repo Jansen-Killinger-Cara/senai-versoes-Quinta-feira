@@ -1,0 +1,21 @@
+cd C:\Users\ADM\Desktop\_git\senai-versoes-colaboracoes
+git config
+cd C:\Users\ADM\Desktop\_git\senai-versoes-colaboracoes
+git config --global user.name "FE4-Jansen" 
+git config --global user.email "jansen.cara@hotmail.com"
+git status
+git add .
+git status
+git commit -m "criei o aquivo versoes.txt"
+git log
+git commit -m "Escrevi pela pela 1¦ vez no meu arquivo"
+git add .
+git status
+git commit -m "Escrevi pela pela 1¦ vez no meu arquivo"
+git add .
+git remote add origin https://github.com/Jansen-Killinger-Cara/senai-versoes-colaboracoes.git
+git remote add origin git@github.com:Jansen-Killinger-Cara/senai-versoes-colaboracoes.git
+git remote -v 
+git push -u origin master 
+doskey /h
+doskey /h >Jansen.txt
